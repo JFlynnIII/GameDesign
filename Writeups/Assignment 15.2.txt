@@ -1,0 +1,11 @@
+Asset Pack 1: Buttons
+
+I thought these buttons had a nice cutesy aesthetic to them which I thought would be perfect for a cute, lighthearted game like Canine Chaos. I want everything about the game to have the same look and feel as these buttons. I would probably use these for the startup menus as well as maybe the dice rolls during gameplay. I might even use the font for non-interactive text elements in the game. This asset is useful because I have zero familiarity with creating fonts, and limited UI knowledge, and now that I have this asset pack. I do not need to.
+
+Asset Pack 2: Environment
+
+This stylized, low-poly environment pack stood out to me because it both matches the style of the dog asset (discussed next) and also, very much like the buttons, just gives off a bright, playful vibe. In addition, the starter scene is very easily converted into a game board in its current state. This takes a massive amount of asset placement work out of the equation, and leaves the rest of it focused on critical gameplay elements.
+
+Asset Pack 3: Animals (Dog)
+
+The dog in this pack, like I mentioned before, is a perfect match for the environment, and also fits the style of the game at large, very cute but not trying too hard to be super realistic. It also comes fully animated, which is good because I have no means of handling that work myself.
