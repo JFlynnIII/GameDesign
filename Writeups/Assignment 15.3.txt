@@ -1,0 +1,11 @@
+1. Roll Dice Button (GUI Button click)
+
+	Why it's necessary: This triggers the core game mechanic—determining the direction the player moves. The dice roll introduces chance and guides 	gameplay, so a button to simulate this action is critical for player interaction and turn progression.
+
+2. Reroll (GUI Button click)
+
+	Why it's necessary: I decided that this game needs more player agency in order to be engaging, so each player should have a finite number of 	rerolls, which they will be prompted to use once they roll.
+
+3. Restart Game or Reset Board Button (GUI Button click)
+
+	Why it's necessary: Since the goal is to "fall off" the board, players will eventually reach the end. A reset option is necessary to allow 	replayability, testing, and iterative playthroughs, especially in a prototype where quick restarts are key for debugging and feedback.
